@@ -5,3 +5,12 @@
 - ถ้าผู้ใช้กรอก password ไม่ใช่ “123456” ให้ alert “Wrong password”
 - ถ้าผู้ใช้กรอกชื่อผู้ใช้อย่างอื่นที่ไม่ใช่ “codecamp” ให้ user มีค่าเป็น guest”
 - ให้ใช้คำสั่ง alert เพื่อแสดงข้อความ “Welcome” ตามด้วยค่าในตัวแปร user
+
+
+if input empty => deafult value "guest"
+
+id user = codecamp ; password 123456 id not alert "wrong password
+
+user not codecamp => guest
+
+aler Welcome + user
